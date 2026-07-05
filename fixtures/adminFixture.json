@@ -1,0 +1,14 @@
+{
+    "systemUser": {
+        "userRole": "Admin",
+        "employeeName": "a",
+        "status": "Enabled",
+        "password": "Password@1234"
+    },
+    "searchByRole": {
+        "role": "Admin"
+    },
+    "invalidSearch": {
+        "username": "xyz123"
+    }
+}

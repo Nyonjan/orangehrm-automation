@@ -1,0 +1,18 @@
+{
+    "newEmployee": {
+        "firstName": "John",
+        "middleName": "A",
+        "lastName": "Smith",
+        "employeeId": "0012"
+    },
+    "searchTestData": {
+        "employeeName": "John Smith"
+    },
+    "invalidSearchData": {
+        "employeeName": "ABCXYZ"
+    },
+    "editEmployeeData": {
+        "searchName": "John Smith",
+        "updatedLastName": "Johnson"
+    }
+}
